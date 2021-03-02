@@ -4,4 +4,4 @@
 
 I've worked with quite a few languages, but currently focus on Javascript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ry-Hebert=anuraghazra&hide=contribs,prs)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry-Hebert&hide=contribs,prs)
